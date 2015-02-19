@@ -1,4 +1,5 @@
-# busca-binaria-iterativa-recursiva
+# Busca binária iterativa ou recursiva.
+
 O algoritmo em C executa uma busca binária iterativa ou recursiva;
 
 
